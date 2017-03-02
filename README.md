@@ -7,6 +7,7 @@ Rozproszona baza danych NoSQL na przykładzie systemu Couchbase [Daniel Cegielsk
 
 Realizacja klastrów bazodanowych server-side i client-side na przykładzie CouchDB i PouchDB [Adrian Krawczyński]
 
+Wydajność systemów bazodanowych dla aplikacji webowej [Michał Repeć]
 
 Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandra [Konrad Brandys]
 
